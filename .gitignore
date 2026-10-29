@@ -8,3 +8,6 @@ target/
 config.properties
 .env
 *.log
+
+
+
